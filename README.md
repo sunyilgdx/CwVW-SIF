@@ -5,4 +5,5 @@
 ## 实验数据
 * [GLoVe词向量](https://nlp.stanford.edu/projects/glove/)
 * news20.tar.gz通过import sklearn.dataset就可获得
-
+# 引用
+> 孙毅,裘杭萍,康睿智.基于方差权重因子选词的SIF句向量模型[J].计算机工程,2019,45(09):204-210+234.
